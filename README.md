@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/dabin49140@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
-
 ### Skill 
 
 #### Languages & framework
@@ -47,3 +46,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 </p>
+  
+### Github stats & Most Used Languages
+
+<div align="left">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delight-HK3&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delight-HK3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
