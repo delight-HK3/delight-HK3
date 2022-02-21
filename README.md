@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ### Email
-
-<img src="https://img.shields.io/badge/dabin49140@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/dabin49140@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dabin310153@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+</p>
 
 ### Skill 
 
