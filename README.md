@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Kakao postcode service-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/>
 </p>
 
-#### Database & server
+#### Database & DBMS & server
 <p>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
