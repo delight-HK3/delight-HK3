@@ -40,9 +40,10 @@ Here are some ideas to get you started:
   
 </p>
 
-#### library
+#### library & API
 <p>
   <img src="https://img.shields.io/badge/CKEditor 4-0287D0?style=flat-square&logo=CKEditor 4&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kakao postcode service-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/>
 </p>
 
 #### Database & server
