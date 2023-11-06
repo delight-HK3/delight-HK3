@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/CKEditor 4-0287D0?style=flat-square&logo=CKEditor 4&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kakao postcode service-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/>
+  <img src="https://img.shields.io/badge/naver map API-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 </p>
 
 #### Database & DBMS & server
