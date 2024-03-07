@@ -47,8 +47,9 @@ Here are some ideas to get you started:
 #### library & API
 <p>
   <img src="https://img.shields.io/badge/CKEditor 4-0287D0?style=flat-square&logo=CKEditor 4&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kakao postcode service-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/>
-  <img src="https://img.shields.io/badge/naver map API-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kakao API-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Naver API-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google API-da3d29?style=flat-square&logo=Google&logoColor=white"/>
 </p>
 
 #### Database & DBMS & server
@@ -67,8 +68,6 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 </p>
 
 
