@@ -58,6 +58,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+    <img src="https://img.shields.io/badge/amazon api gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white"/>
 </p>
 
 #### Tools
