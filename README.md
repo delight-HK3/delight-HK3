@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 [![Github](https://www.codenary.co.kr/widget/github/api?username=이다빈1122)](https://www.codenary.co.kr/user-profile/detail/이다빈1122?github_ride=true&utm_source=github)
 
-#### Skill
+### Skill
 
 <p>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
