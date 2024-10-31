@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 -->
 
 
+[![Github](https://www.codenary.co.kr/widget/github/api?username=이다빈1122)](https://www.codenary.co.kr/user-profile/detail/이다빈1122?github_ride=true&utm_source=github)
+
 ### Email
 <p>
   <img src="https://img.shields.io/badge/dabin49140@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dabin310153@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 </p>
 
 ### Skill 
@@ -39,7 +40,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-C++-0769AD?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C%23-0769AD?style=flat-square&logo=Csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   
 </p>
 
@@ -58,7 +58,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-    <br>
     <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
     <img src="https://img.shields.io/badge/amazon api gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white"/>
 </p>
@@ -68,17 +67,10 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
-  <br>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 </p>
 
 
-### Github stats & Most Used Languages
+![깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=delight-HK3&theme=react-dark)
 
-<div align="left">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delight-HK3&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delight-HK3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
