@@ -42,7 +42,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/amazon route 53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=Mybatis&logoColor=white"/>
 </p>
-<br>
 
-![깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=delight-HK3&theme=react-dark)
 
