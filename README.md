@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"/>
   <img src="https://img.shields.io/badge/query dsl-0289cf?style=for-the-badge&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/codeigniter 3-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
@@ -48,7 +48,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/amazon route 53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white"/>
   <img src="https://img.shields.io/badge/amazon S3-569A31?style=for-the-badge&logo=amazonS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=Mybatis&logoColor=white"/>
-
 </p>
 
 
