@@ -13,8 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### introduce
 
-[![Github](https://www.codenary.co.kr/widget/github/api?username=이다빈1122)](https://www.codenary.co.kr/user-profile/detail/이다빈1122?github_ride=true&utm_source=github)
+저는 개발자에게 성장은 필수적인 요소라고 생각합니다.
+
+하지만 조그마한 씨앗이 다음날에 갑자기 거목이 되지 않는 것처럼
+
+저는 느리더라도 조금씩 성장하여 언젠가
+
+하늘에 닿을정도의 거목이 되는 것이 목표입니다.
+
+<br>
+
+### Github Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delight-HK3&show_icons=true)
 
 ### Skill
 
