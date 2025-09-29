@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### introduce
+# introduce
 
 저는 개발자에게 성장은 필수적인 요소라고 생각합니다.
 
