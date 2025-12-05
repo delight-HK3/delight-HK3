@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 
 <br>
 
-### Github Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delight-HK3&show_icons=true)
-
 ### Skill
 
 <p>
@@ -56,6 +53,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/amazon S3-569A31?style=for-the-badge&logo=amazonS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=Mybatis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white"/>
+    
 </p>
 
 
