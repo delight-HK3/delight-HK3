@@ -25,6 +25,16 @@ Here are some ideas to get you started:
 
 <br>
 
+I believe growth is essential for developers.
+
+However, just as a tiny seed doesn't suddenly grow into a giant tree overnight,
+
+my goal is to grow slowly, even if gradually, and one day,
+
+become a giant tree that reaches the sky.
+
+<br>
+
 ### Skill
 
 <p>
