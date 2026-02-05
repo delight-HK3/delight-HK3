@@ -53,8 +53,7 @@ become a giant tree that reaches the sky.
   
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white"/>
-
-    
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 
